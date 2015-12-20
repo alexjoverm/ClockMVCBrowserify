@@ -1,6 +1,6 @@
-# ClockMVCRequireJS
+# ClockMVCBrowserify
 
-**Live demo:** [http://alexjoverm.github.io/ClockMVCRequireJS](http://alexjoverm.github.io/ClockMVCRequireJS)
+**Live demo:** [http://alexjoverm.github.io/ClockMVCBrowserify](http://alexjoverm.github.io/ClockMVCBrowserify)
 
 
 To get started, you’ll need node and npm installed on your computer.
